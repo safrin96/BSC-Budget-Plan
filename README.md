@@ -80,4 +80,4 @@ Developed a comprehensive 1-page PowerBI dashboard to visualize the following:
   - Graph 5: Total Revenue Forecast by Category and Subcategory (2020-2022):
      - Electronics continues to dominate the forecast with $52.88M by 2022, while Movies, Music, and Books are expected to contribute $8.94M, $8.42M, and $5.74M, respectively.
 
-📍 Dashboard Link: [Dashboard to be embedded]
+📍 Dashboard Link: [BSC Budget Plan Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDhhNWU3YTItYjBmYi00NTIyLTkwN2YtMjU3MTNlZTRhMDIxIiwidCI6IjU2MzMzN2NhLWE1MTctNDIxYS1hYWUwLTFhYTViNDE0ZmQ3ZiIsImMiOjZ9)
